@@ -1,18 +1,14 @@
-OpenAlipay，一个
+一开始，用户手里只有一个压缩包
 
-一开始，用户手里只有一个压缩包，压缩包内只有main.py
+压缩包内只有BestAlipayFunds.py
 
-main.py只包含对功能有影响的内容
+BestAlipayFunds.py只包含对功能有影响的内容
 
-AI必须存放在与main.py同级的文件夹内
+AI必须放在与BestAlipayFunds.py同级的文件夹内
 
-其他东西尽量存放在与main.py同级的文件夹内
+其他东西尽量放在与BestAlipayFunds.py同级的文件夹内
 
-AI必须能够通过睡觉实现离线优化
-
-main.py必须能够在已安装合适版本Python且网络连接正常的Windows 11 x64上高效运行
-
-
+BestAlipayFunds.py必须能够在已安装合适版本Python且网络连接正常的Windows 11 x64上高效运行
 
 点击“任务” →输入 →发送 →隐藏主界面 →进入任务模式 →AI活动（键盘、鼠标） →AI认为需要退出任务模式 →AI停止活动 →退出任务模式 →恢复主界面
 
