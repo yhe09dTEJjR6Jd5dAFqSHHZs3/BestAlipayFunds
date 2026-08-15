@@ -4,11 +4,15 @@
 
 BestAlipayFunds.py只包含对功能有影响的内容
 
+BestAlipayFunds.py必须能够在已安装合适版本Python且网络连接正常的Windows 11 x64上高效运行
+
+运行BestAlipayFunds.py后：
+
 AI必须放在与BestAlipayFunds.py同级的文件夹内
 
 其他东西尽量放在与BestAlipayFunds.py同级的文件夹内
 
-BestAlipayFunds.py必须能够在已安装合适版本Python且网络连接正常的Windows 11 x64上高效运行
+主界面显示10个当前在支付宝上最值得买入并长期持有的基金名称
 
 点击“任务” →输入 →发送 →隐藏主界面 →进入任务模式 →AI活动（键盘、鼠标） →AI认为需要退出任务模式 →AI停止活动 →退出任务模式 →恢复主界面
 
